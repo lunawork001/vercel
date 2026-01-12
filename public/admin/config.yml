@@ -3,7 +3,7 @@ backend:
   branch: main # change this to your branch
   repo: lunawork001/vercel # 1、change this to your repo
   site_domain: anyoung.de5.net # 2、change this to your domain
-  base_url: http://anyoung.de5.net # 3、change this to your prod URL
+  base_url: https://anyoung.de5.net # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
 
 collections:
